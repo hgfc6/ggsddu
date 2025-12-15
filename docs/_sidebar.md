@@ -1,6 +1,4 @@
-# Java
-
-# Go
-
-# Python
-
+- [首页](/)
+- 第一章
+  - [1.1 快速开始](chapter1/quickstart.md)
+  - [1.2 配置](chapter1/config.md)

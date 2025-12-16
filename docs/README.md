@@ -1,5 +1,3 @@
-# 个人技术栈
-
 <img src="./pics/sit down please.jpg" alt="请坐" style="width:50%;" />
 
 ## 🌟 你好! 我是 hg
